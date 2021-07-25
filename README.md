@@ -102,4 +102,4 @@
 	<a href="https://www.hackerrank.com/anandsarank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anandsarank" height="30" width="40" /></a>
 	 - Hackerrank,
 	<a href="kanand.n95saran@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="kanand.n95saran@gmail.com" height="30" width="40" /></a>
-	Gail
+	Gmail
