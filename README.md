@@ -29,6 +29,7 @@
 <p align="left"> Data Analysis and Visualization -
 	<br>
 	<br>
+	<a href="https://clickhouse.tech/" target="_blank"> <img src="https://clickhouse.tech/images/logo.svg" alt="kibana" width="40" height="40" /> </a>
 	<a href="https://www.elastic.co/kibana/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" alt="kibana" width="40" height="40" /> </a>
 	<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="powerbi" width="40" height="40" /> </a>
 	<a href="https://redash.io/" target="_blank"> <img src="https://redash.io/assets/images/elements/redash-logo.svg" alt="redash" width="40" height="40" /> </a>
