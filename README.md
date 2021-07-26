@@ -47,6 +47,7 @@
 	<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>
 	<a href="https://aws.amazon.com/redshift/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" alt="sqlite" width="40" height="40" /> </a>
 	<a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="sqlite" width="40" height="40" /> </a>
+	<a href="https://prestodb.io/" target="_blank"> <img src="https://prestodb.io/static/presto.png" alt="sqlite" width="40" height="40" /> </a>
 	<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
 	</br>
 	</br>
