@@ -106,3 +106,91 @@
 	 - Hackerrank,
 	<a href="kanand.n95saran@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="kanand.n95saran@gmail.com" height="30" width="40" /></a>
 	Gmail
+
+	
+	
+Licenses & Certifications
+Google logo
+Google Project Management: Professional CertificateGoogle Project Management: Professional Certificate
+GoogleGoogle
+Issued Jan 2022 · No Expiration DateIssued Jan 2022 · No Expiration Date
+Show credential
+Skillsoft logo
+Product Management FundamentalsProduct Management Fundamentals
+SkillsoftSkillsoft
+Issued Sep 2021 · No Expiration DateIssued Sep 2021 · No Expiration Date
+Show credential
+Udemy logo
+Convolutional Neural Networks in Python: CNN Computer VisionConvolutional Neural Networks in Python: CNN Computer Vision
+UdemyUdemy
+Issued Jun 2021 · No Expiration DateIssued Jun 2021 · No Expiration Date
+Credential ID UC-8bb4758c-6fc1-4adf-82f9-a1003a3a9ff5Credential ID UC-8bb4758c-6fc1-4adf-82f9-a1003a3a9ff5
+Show credential
+HackerRank logo
+Problem SolvingProblem Solving
+HackerRankHackerRank
+Issued Jun 2021 · No Expiration DateIssued Jun 2021 · No Expiration Date
+Show credential
+HackerRank logo
+SQL (Intermediate)SQL (Intermediate)
+HackerRankHackerRank
+Issued Jun 2021 · No Expiration DateIssued Jun 2021 · No Expiration Date
+Show credential
+Udemy logo
+Decision Trees, Random Forests, AdaBoost & XGBoost in PythonDecision Trees, Random Forests, AdaBoost & XGBoost in Python
+UdemyUdemy
+Issued Nov 2020 · No Expiration DateIssued Nov 2020 · No Expiration Date
+Credential ID UC-3ed1ef9c-bc1f-4754-82e1-04848e77660fCredential ID UC-3ed1ef9c-bc1f-4754-82e1-04848e77660f
+Show credential
+Udemy logo
+Agile Scrum Fundamentals + Agile and Scrum concepts + Overview of Scrum AgileAgile Scrum Fundamentals + Agile and Scrum concepts + Overview of Scrum Agile
+UdemyUdemy
+Issued Aug 2020 · No Expiration DateIssued Aug 2020 · No Expiration Date
+Credential ID UC-4f36bc61-aaf4-4a74-987d-df6e3cf1e62cCredential ID UC-4f36bc61-aaf4-4a74-987d-df6e3cf1e62c
+Show credential
+Udemy logo
+Complete Linear Regression Analysis in Python Complete Linear Regression Analysis in Python 
+UdemyUdemy
+Issued Jul 2020 · No Expiration DateIssued Jul 2020 · No Expiration Date
+Credential ID UC-b408cce8-0ceb-41da-8d0a-498e20d84cabCredential ID UC-b408cce8-0ceb-41da-8d0a-498e20d84cab
+Show credential
+Udemy logo
+Linear Regression and Logistic Regression using R StudioLinear Regression and Logistic Regression using R Studio
+UdemyUdemy
+Issued Jun 2020 · No Expiration DateIssued Jun 2020 · No Expiration Date
+Credential ID UC-ffdac784-b28a-49ba-b737-376fa912b281Credential ID UC-ffdac784-b28a-49ba-b737-376fa912b281
+Show credential
+HackerRank logo
+Python (Basic)Python (Basic)
+HackerRankHackerRank
+Issued Jan 2020 · No Expiration DateIssued Jan 2020 · No Expiration Date
+Show credential
+Udemy logo
+Python for Data Analysis and VisualisationPython for Data Analysis and Visualisation
+UdemyUdemy
+Issued May 2019 · No Expiration DateIssued May 2019 · No Expiration Date
+Credential ID UC-MRTBMS2DCredential ID UC-MRTBMS2D
+Show credential
+Udemy logo
+Python BootcampPython Bootcamp
+UdemyUdemy
+Issued Jan 2019 · No Expiration DateIssued Jan 2019 · No Expiration Date
+Credential ID UC-VV701YIMCredential ID UC-VV701YIM
+Show credential
+Udemy logo
+Data Analysis for Business and FinanceData Analysis for Business and Finance
+UdemyUdemy
+Issued Aug 2017 · No Expiration DateIssued Aug 2017 · No Expiration Date
+Credential ID UC-98f2bcd1-4283-4cb4-8a55-9c343bf6b538Credential ID UC-98f2bcd1-4283-4cb4-8a55-9c343bf6b538
+Show credential
+Udemy logo
+Excel 2016 Expert: Interpreting Data for InsightsExcel 2016 Expert: Interpreting Data for Insights
+UdemyUdemy
+Issued Aug 2017 · No Expiration DateIssued Aug 2017 · No Expiration Date
+Credential ID UC-76e1d901-2677-4313-8909-0bdd47a598d9Credential ID UC-76e1d901-2677-4313-8909-0bdd47a598d9
+Show credential
+Udemy logo
+SQL Server - Master Class For Data AnalysisSQL Server - Master Class For Data Analysis
+UdemyUdemy
+Credential ID UC-f3618150-885d-4097-b7e5-b04b7827591cCredential ID UC-f3618150-885d-4097-b7e5-b04b7827591c
+Show credential
